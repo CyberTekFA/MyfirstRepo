@@ -22,6 +22,7 @@ public class John {
 	
 	public static int division(int num1 , int num2) {
 		return num1/num2;
+		//I just want to add something fun
 	}
 	
 }
